@@ -29,9 +29,9 @@ DataCo-Smart-Supply-Chain-for-Big-Data-Analysis
   </a>
 </td>
   <td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
+  <a href="https://github.com/MhmodAfndy/Chinook-Music-Store">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Page%20View%20Time%20Series%20Visualizer.png" width="150"/><br>
-    Page View Time Series Visualizer
+  Chinook-Music-Store
   </a>
 </td>
   <td align="center" width="180" height="200">
