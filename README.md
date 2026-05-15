@@ -57,6 +57,8 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
 
 
 
+## 🛠️ Technical Skillset
+
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
@@ -82,11 +84,8 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="http://www.linkedin.com/in/mahmoud-elafandy-business"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:malafandi100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+
+
 
 
 ## 🌱 Currently Learning 
@@ -98,5 +97,12 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-## 🛠️ Technical Skillset
+
+
+
+<!-- 🔗 Update these links with your own social media and contact information -->
+<p align="center">
+  <a href="http://www.linkedin.com/in/mahmoud-elafandy-business"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:malafandi100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
