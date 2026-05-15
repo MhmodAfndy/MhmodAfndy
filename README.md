@@ -35,23 +35,18 @@ DataCo-Smart-Supply-Chain-for-Big-Data-Analysis
   </a>
 </td>
   <td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Medical-Data-Visualizer">
+  <a href="https://github.com/MhmodAfndy/Tata-s-GenAI-Powered-Data-Analytics">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Medical%20Data%20Visualizer.png" width="150"/><br>
-    Medical Data Visualizer
+Tata-s-GenAI-Powered-Data-Analytics
   </a>
 </td>
 <td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Demographic-Data-Analyzer">
+  <a href="https://github.com/MhmodAfndy/Deloitte-Australia-Data-Analytics--virtual-Internship-Forage">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Demographic%20Data%20Analyzer.png" width="150"/><br>
-    Demographic Data Analyzer
+Deloitte Data Analytics Virtual Internship
   </a>
 </td>
-  <td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
-    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Mean%20Variance%20STD%20Calculator.png" width="150"/><br>
-    Mean Variance Standard Deviation Calculator
-  </a>
-</td>
+
 </tr>
 </table>
 
