@@ -24,11 +24,42 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### 📊 Data Analysis Projects
+<table>
+<tr>
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Sea-Level-Predictor">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Sea%20Level%20Predictor.png" width="150"/><br>
+    Sea Level Predictor
+  </a>
+</td>
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Page%20View%20Time%20Series%20Visualizer.png" width="150"/><br>
+    Page View Time Series Visualizer
+  </a>
+</td>
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Medical-Data-Visualizer">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Medical%20Data%20Visualizer.png" width="150"/><br>
+    Medical Data Visualizer
+  </a>
+</td>
+<td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Demographic-Data-Analyzer">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Demographic%20Data%20Analyzer.png" width="150"/><br>
+    Demographic Data Analyzer
+  </a>
+</td>
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Mean%20Variance%20STD%20Calculator.png" width="150"/><br>
+    Mean Variance Standard Deviation Calculator
+  </a>
+</td>
+</tr>
+</table>
 
 ## 🌱 Currently Learning 
 
