@@ -100,6 +100,30 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
 
 
 
+
+## 📄 Resume
+
+<table>
+<tr>
+<td align="center" width="180" height="200">
+  <a href="https://drive.google.com/file/d/12rk1iC_vhcH3AHNENN5i9yXnaicWhz6b/view?usp=sharing" target="_blank">
+    <div style="height: 150px;">
+      <img 
+        src="https://img.icons8.com/fluency-systems-filled/96/4a90e2/resume.png" 
+        width="70" 
+        alt="resume icon"
+      />
+    </div>
+    <b>Resume</b>
+  </a>
+</td>
+</tr>
+</table>
+
+
+
+
+
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="http://www.linkedin.com/in/mahmoud-elafandy-business"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
