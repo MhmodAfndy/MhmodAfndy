@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
   <td align="center" width="180" height="200">
   <a href="https://github.com/MhmodAfndy/DataCo-Smart-Supply-Chain-for-Big-Data-Analysis">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Sea%20Level%20Predictor.png" width="150"/><br>
-    Sea Level Predictor
+DataCo-Smart-Supply-Chain-for-Big-Data-Analysis
   </a>
 </td>
   <td align="center" width="180" height="200">
