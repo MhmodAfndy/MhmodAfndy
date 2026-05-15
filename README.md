@@ -16,8 +16,7 @@ I have experience working with Excel, Power BI, and Python to clean, analyze, an
 
 When I'm not working with data, I enjoy learning new skills, exploring business ideas, and improving my analytical thinking. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+
       
 
 ### 📊 Data Analysis Projects
@@ -61,6 +60,8 @@ When I'm not working with data, I enjoy learning new skills, exploring business 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
