@@ -90,7 +90,7 @@ Deloitte Data Analytics Virtual Internship
 <table>
 <tr>
 <td align="center" width="180" height="200">
-  <a href="https://drive.google.com/file/d/12rk1iC_vhcH3AHNENN5i9yXnaicWhz6b/view?usp=sharing" target="_blank">
+  <a href="" target="_blank">
     <div style="height: 150px;">
       <img 
         src="https://img.icons8.com/fluency-systems-filled/96/4a90e2/resume.png" 
