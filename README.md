@@ -88,20 +88,36 @@ Deloitte Data Analytics Virtual Internship
 ## 📄 Resume
 
 <table>
-<tr>
-<td align="center" width="180" height="200">
-  <a href="" target="_blank">
-    <div style="height: 150px;">
-      <img 
-        src="https://drive.google.com/file/d/13H-u0uBM2i0PDqJ5ez_ch7IajrcS7XTX/view?usp=sharing img.icons8.com/fluency-systems-filled/96/4a90e2/resume.png" 
-        width="70" 
-        alt="resume icon"
-      />
-    </div>
-    <b>Resume</b>
-  </a>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="180">
+      <a 
+        href="https://drive.google.com/file/d/13H-u0uBM2i0PDqJ5ez_ch7IajrcS7XTX/view?usp=sharing" 
+        target="_blank"
+        style="text-decoration: none;"
+      >
+        <div 
+          style="
+            border: 1px solid #e5e7eb;
+            border-radius: 16px;
+            padding: 20px;
+            width: 150px;
+            transition: 0.3s ease;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+          "
+        >
+          <img
+            src="https://img.icons8.com/fluency-systems-filled/96/4a90e2/resume.png"
+            width="70"
+            alt="Resume Icon"
+          />
+          <br /><br />
+          <b style="color: #111827; font-size: 16px;">
+            Resume
+          </b>
+        </div>
+      </a>
+    </td>
+  </tr>
 </table>
 
 
