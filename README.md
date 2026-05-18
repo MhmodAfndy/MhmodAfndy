@@ -77,10 +77,8 @@ Deloitte Data Analytics Virtual Internship
 </p>
 
 
-
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### 🚀 Explore My Portfolio  
+🔗 [View My Complete Portfolio Website](https://mhmodafndy.netlify.app/)
 
 
 
